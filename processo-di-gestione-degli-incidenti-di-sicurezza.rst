@@ -367,7 +367,6 @@ Il CERT Regionale ha le responsabilità di:
 
 - effettuare il coordinamento nella risposta degli incidenti a
   rilevanza sistemica o di incidenti a Livello 3;
-
 - chiudere formalmente gli incidenti di Livello 2 e Livello 3;
 
 - effettuare l’analisi post-incidente;
@@ -411,7 +410,7 @@ Il processo di gestione incidenti è articolato nelle seguenti attività:
 - **monitoraggio delle attività di ripristino** ed analisi
   post-incidenti a carico del CERT Regionale.
 
-La Figura 5 descrive il diagramma di flusso inter-funzionale del processo
+La Figura 9.1 descrive il diagramma di flusso inter-funzionale del processo
 generale di gestione incidenti nelle PAL, attivato dal Referente della Sicurezza
 all’arrivo di una segnalazione di sicurezza; come evidenziato dalle linee
 tratteggiate, il processo di ripristino ed analisi post-incidente viene attivato
@@ -546,8 +545,8 @@ di Livello 0 e 1 è il seguente.
 
    Flusso di gestione incidenti Livello 0 e Livello 1
 
-Si dettagliano di seguito le attività indicate in Figura 6 (per la legenda dei
-simboli fare riferimento alla Figura 5).
+Si dettagliano di seguito le attività indicate in Figura 9.2 (per la legenda dei
+simboli fare riferimento alla Figura 9.1).
 
 Definizione delle attività di gestione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -650,8 +649,8 @@ incidenti di Livello 2 è riportato nella figura seguente.
 
    Flusso di gestione incidenti Livello 2
 
-Si dettagliano di seguito le attività indicate in Figura 7 (per la legenda dei
-simboli fare riferimento alla Figura 5).
+Si dettagliano di seguito le attività indicate in Figura 9.3 (per la legenda dei
+simboli fare riferimento alla Figura 9.1).
 
 Coinvolgimento CERT Regionale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -886,8 +885,8 @@ degli incidenti di Livello 3 è riportato nella figura seguente.
 
    Flusso di gestione incidenti Livello 3
 
-Si dettagliano di seguito le attività indicate in Figura 8 (per la legenda dei
-simboli fare riferimento alla Figura 5).
+Si dettagliano di seguito le attività indicate in Figura 9.4 (per la legenda dei
+simboli fare riferimento alla Figura 9.1).
 
 Per comodità espositiva, si dettagliano a seguire solamente le attività
 specifiche che caratterizzano l’attivazione del sotto-processo di gestione degli
@@ -1046,8 +1045,8 @@ figura seguente.
 
    Flusso di ripristino incidente
 
-Si dettagliano di seguito le attività indicate in Figura 9 (per la legenda dei
-simboli fare riferimento alla Figura 5).
+Si dettagliano di seguito le attività indicate in Figura 9.5 (per la legenda dei
+simboli fare riferimento alla Figura 9.1).
 
 Analisi post-incidente e follow up
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
