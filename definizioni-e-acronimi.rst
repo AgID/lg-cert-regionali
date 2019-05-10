@@ -1,7 +1,7 @@
 Definizioni e Acronimi
 ======================
 
-In Appendice 1 è riportato un elenco esaustivo di nozioni e termini
+Nel Glossario è riportato un elenco esaustivo di nozioni e termini
 utili per una corretta comprensione dei contenuti presentati all’interno
 di questo documento.
 
