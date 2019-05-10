@@ -69,8 +69,7 @@ Nazionale.
    Team) o SERT (Security Emergency Response Team). Si precisa tuttavia
    che l’utilizzo della denominazione CERT dovrebbe tuttavia considerare
    i seguenti criteri di base: (i) l’acronimo CERT è un marchio
-   registrato della CMU-SEI e pertanto l’utilizzo dello stesso deve
-   essere autorizzato da tale organizzazione; (ii) la mission primaria
+   registrato della CMU-SEI e pertanto l’utilizzo dello stesso deve   essere autorizzato da tale organizzazione; (ii) la mission primaria
    del CERT, secondo le convenzioni internazionali associate
    all’utilizzo di questo acronimo, deve essere fondata sulla gestione
    degli incidenti di Cyber Security, anche se focalizzata su aspetti di
@@ -107,7 +106,7 @@ riferimento per la costituzione di CERT regionali. Tali aspetti riguardano:
 - opportunità di finanziamento per iniziative nel nostro Paese;
 - piano di attuazione.
 
-Nella definizione del modello sono state prese in considerazione e le
+Nella definizione del modello sono state prese in considerazione le
 indicazioni e Best Practice fornite dalle organizzazioni internazionali di
 riferimento del settore (ENISA - *Agenzia Europea per la sicurezza delle reti e
 dell’informazione*; CERT/CC – *CERT Coordination Center della Carnegie Mellon
