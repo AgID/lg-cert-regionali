@@ -174,7 +174,7 @@ responsabilità nonché una potenziale duplicazione degli sforzi e servizi
 inefficaci e/o in reciproco contrasto (si pensi ad esempio alla sovrapposizione
 di un CERT privato con uno governativo nell’ambito degli stessi servizi).
 
-Con riferimento alle diverse tipologie di CERT individuati in **Tabella 2**, è
+Con riferimento alle diverse tipologie di CERT individuati in **Tabella 5.2**, è
 possibile individuare specifiche constituency.
 
 .. table:: Constituency di riferimento per tipologia di CERT
