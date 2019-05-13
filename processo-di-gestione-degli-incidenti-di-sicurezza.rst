@@ -206,43 +206,24 @@ valutativa (scala degli impatti):
 .. table:: Classificazione degli incidenti di sicurezza
    :name: classificazione-incidenti-sicurezza
 
-   +----------------+----------------+----------------+----------------+-----------------+
-   | Scenario di    | Livello 0      | Livello 1      | Livello 2      | Livello 3       |
-   | impatto        |                |                |                |                 |
-   +================+================+================+================+=================+
-   | **Persone**    | Nessun impatto | Impatti        | Impatti        | Impatti         |
-   |                | significativo  | limitati solo  | limitati ma    | limitati con    |
-   |                |                | all’interno    | possibile      | interessamento  |
-   |                |                | dell’ente      | interessamento | di altre PAL o  |
-   |                |                |                | di altre PAL o | privati         |
-   |                |                |                | privati        |                 |
-   +----------------+----------------+----------------+----------------+-----------------+
-   | **Economia**   | Nessun impatto | Impatto        | Impatto        | Impatto         |
-   |                | significativo  | economico      | economico      | economico       |
-   |                |                | trascurabile e | limitato con   | significativo o |
-   |                |                | limitato       | possibile      | interessamento  |
-   |                |                | all’ente       | interessamento | di altre PAL    |
-   |                |                |                | di altre PAL   |                 |
-   +----------------+----------------+----------------+----------------+-----------------+
-   | **Servizi PA** | Nessun impatto | Impatto        | Impatto        | Impatto         |
-   |                | significativo  | limitato a     | limitato ma    | limitato ma con |
-   |                |                | servizi        | possibile      | interessamento  |
-   |                |                | interni        | interessamento | di altre PAL o  |
-   |                |                | all’ente       | di altre PAL o | privati         |
-   |                |                |                | privati        |                 |
-   +----------------+----------------+----------------+----------------+-----------------+
-   | **Immagine**   | Nessun impatto | Danno di       | Danno di       | Danno di        |
-   |                | significativo  | immagine ma    | immagine con   | immagine con    |
-   |                |                | problema       | interessamento | interessamento  |
-   |                |                | limitato       | di altre PAL   | esterno alla    |
-   |                |                | all’ente       |                | PAL             |
-   +----------------+----------------+----------------+----------------+-----------------+
-   | **Sociale**    | Nessun impatto | L’incidente    | L’incidente    | L’incidente     |
-   |                | significativo  | provoca        | provoca        | provoca         |
-   |                |                | malessere nel  | malessere nel  | malessere anche |
-   |                |                | personale      | personale in   | all’esterno     |
-   |                |                | dell’ente      | altre PAL      | della PAL       |
-   +----------------+----------------+----------------+----------------+-----------------+
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
+   | .. rst-class:: text-sans-serif p-3 | .. rst-class:: neutral-2-bg-a1 text-sans-serif p-3 | .. rst-class:: complementary-3-bg text-sans-serif p-3 | .. rst-class:: complementary-2-bg text-sans-serif p-3 | .. rst-class:: complementary-1-bg text-sans-serif p-3 |
+   | Scenario di impatto                | Livello 0                                          | Livello 1                                             | Livello 2                                             | Livello 3                                             |
+   +====================================+====================================================+=======================================================+=======================================================+=======================================================+
+   | **Persone**                        | Nessun impatto significativo                       | Impatti limitati solo all’interno dell’ente           | Impatti limitati ma possibile interessamento di altre | Impatti limitati con interessamento di altre PAL o    |
+   |                                    |                                                    |                                                       | PAL o privati                                         | privati                                               |
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
+   | **Economia**                       | Nessun impatto significativo                       | Impatto economico trascurabile e limitato all’ente    | Impatto economico limitato con possibile              | Impatto economico significativo o interessamento di   |
+   |                                    |                                                    |                                                       | interessamento di altre PAL                           | altre PAL                                             |
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
+   | **Servizi PA**                     | Nessun impatto significativo                       | Impatto limitato a servizi interni all’ente           | Impatto limitato ma possibile interessamento di altre | Impatto limitato ma con interessamento di altre PAL o |
+   |                                    |                                                    |                                                       | PAL o privati                                         | privati                                               |
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
+   | **Immagine**                       | Nessun impatto significativo                       | Danno di immagine ma problema limitato all’ente       | Danno di immagine con interessamento di altre PAL     | Danno di immagine con interessamento esterno alla PAL |
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
+   | **Sociale**                        | Nessun impatto significativo                       | L’incidente provoca malessere nel personale dell’ente | L’incidente provoca malessere nel personale in altre  | L’incidente provoca malessere anche all’esterno della |
+   |                                    |                                                    |                                                       | PAL                                                   | PAL                                                   |
+   +------------------------------------+----------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+-------------------------------------------------------+
 
 Come si evince dalla tabella precedente, il livello di impatto associato ad un
 evento di sicurezza rappresenta una misura qualitativa del danno provocato
@@ -276,28 +257,28 @@ attribuite in funzione del livello di impatto, secondo la metrica TLP a 4 valori
 .. table:: Definizione dei livelli di priorità
    :name: definizione-livelli-priorita
 
-   +---------------+---------------------+------------------+-----------------+------------------+
-   | Scenario di   | **Classificazione** | **Priorità**     | **Modalità di   | **Ruolo CERT     |
-   | impatto       |                     |                  | gestione**      | Regionale**      |
-   +===============+=====================+==================+=================+==================+
-   | **Livello 0** | Allarme             | **Non            | Locale all’Ente | \-               |
-   |               |                     | rilevante**      | coinvolto       |                  |
-   +---------------+---------------------+------------------+-----------------+------------------+
-   | **Livello 1** | Incidente           | **Informativo**  | Locale all’Ente | Informato        |
-   |               |                     |                  | coinvolto       |                  |
-   +---------------+---------------------+------------------+-----------------+------------------+
-   | **Livello 2** | Incidente           | **Attenzione**   | Condivisa       | Supporto alla    |
-   |               |                     |                  |                 | gestione /       |
-   |               |                     |                  |                 | coordinamento    |
-   |               |                     |                  |                 | per incidenti    |
-   |               |                     |                  |                 | sistemici PA     |
-   +---------------+---------------------+------------------+-----------------+------------------+
-   | **Livello 3** | Incidente           | **Critico**      | Condivisa       | Supporto alla    |
-   |               |                     |                  |                 | gestione /       |
-   |               |                     |                  |                 | coordinamento e  |
-   |               |                     |                  |                 | coinvolgimento   |
-   |               |                     |                  |                 | CERT-PA          |
-   +---------------+---------------------+------------------+-----------------+------------------+
+   +---------------+---------------------+--------------------------------------------------------------------------+-----------------+------------------+
+   | Scenario di   | **Classificazione** | **Priorità**                                                             | **Modalità di   | **Ruolo CERT     |
+   | impatto       |                     |                                                                          | gestione**      | Regionale**      |
+   +===============+=====================+==========================================================================+=================+==================+
+   | **Livello 0** | Allarme             | .. rst-class:: text-sans-serif neutral-2-color-b7 p-3                    | Locale all’Ente | \-               |
+   |               |                     | **Non rilevante**                                                        | coinvolto       |                  |
+   +---------------+---------------------+--------------------------------------------------------------------------+-----------------+------------------+
+   | **Livello 1** | Incidente           | .. rst-class:: complementary-3-bg text-sans-serif neutral-2-color-b7 p-3 | Locale all’Ente | Informato        |
+   |               |                     | **Informativo**                                                          | coinvolto       |                  |
+   +---------------+---------------------+--------------------------------------------------------------------------+-----------------+------------------+
+   | **Livello 2** | Incidente           | .. rst-class:: complementary-2-bg text-sans-serif neutral-2-color-b7 p-3 | Condivisa       | Supporto alla    |
+   |               |                     | **Attenzione**                                                           |                 | gestione /       |
+   |               |                     |                                                                          |                 | coordinamento    |
+   |               |                     |                                                                          |                 | per incidenti    |
+   |               |                     |                                                                          |                 | sistemici PA     |
+   +---------------+---------------------+--------------------------------------------------------------------------+-----------------+------------------+
+   | **Livello 3** | Incidente           | .. rst-class:: complementary-1-bg text-sans-serif neutral-2-color-b7 p-3 | Condivisa       | Supporto alla    |
+   |               |                     | **Critico**                                                              |                 | gestione /       |
+   |               |                     |                                                                          |                 | coordinamento e  |
+   |               |                     |                                                                          |                 | coinvolgimento   |
+   |               |                     |                                                                          |                 | CERT-PA          |
+   +---------------+---------------------+--------------------------------------------------------------------------+-----------------+------------------+
 
 Come indicato nella tabella precedente, il livello di impatto
 dell’allarme/incidente determina la modalità ed il ruolo svolto dal CERT
