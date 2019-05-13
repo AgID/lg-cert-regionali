@@ -9,9 +9,9 @@ Leggi
 
 2. D.Lgs. 83/2012, “*Misure urgenti per la crescita del Paese*”
 
-3. DPCM 31/5/2017, “*Piano Triennale per l’Informatica nella Pubblica
-   Amministrazione 2017-2019*”
-   (http://pianotriennale-ict.readthedocs.io/it/latest/index.html)
+3. “*Piano Triennale per l’Informatica nella Pubblica
+   Amministrazione 2019-2021*”
+   (https://pianotriennale-ict.italia.it)
 
 4. Direttiva PCM 1 agosto 2015
 
