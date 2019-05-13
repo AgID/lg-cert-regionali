@@ -66,7 +66,8 @@ Nazionale.
    documento della denominazione CERT in luogo di altre con significati
    del tutto analoghi quali CSIRT (Computer Security Incident Response
    Team), IRT (Incident Response Team), CIRT (Computer Incident Response
-   Team) o SERT (Security Emergency Response Team). Si precisa tuttavia   che l’utilizzo della denominazione CERT dovrebbe tuttavia considerare
+   Team) o SERT (Security Emergency Response Team). Si precisa tuttavia che
+   l’utilizzo della denominazione CERT dovrebbe considerare
    i seguenti criteri di base: (i) l’acronimo CERT è un marchio
    registrato della CMU-SEI e pertanto l’utilizzo dello stesso deve
    essere autorizzato da tale organizzazione; (ii) la mission primaria

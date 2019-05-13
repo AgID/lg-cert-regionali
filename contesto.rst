@@ -614,8 +614,7 @@ organizzativa e procedurale, con tre livelli di attuazione:
 
 - livello 1: obbligatorio per ogni Pubblica Amministrazione;
 
-- livello 2: il livello minimo è obbligatorio per ogni Pubblica
-   Amministrazione;
+- livello 2: il livello minimo è obbligatorio per ogni Pubblica Amministrazione;
 
 - i livelli successivi richiedono sistemi di protezione più completi,
   riguardando in particolare le organizzazioni maggiormente esposte a
