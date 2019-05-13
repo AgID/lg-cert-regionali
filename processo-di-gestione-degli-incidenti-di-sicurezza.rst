@@ -280,7 +280,7 @@ attribuite in funzione del livello di impatto, secondo la metrica TLP a 4 valori
    | Scenario di   | **Classificazione** | **Priorità**     | **Modalità di   | **Ruolo CERT     |
    | impatto       |                     |                  | gestione**      | Regionale**      |
    +===============+=====================+==================+=================+==================+
-   | **Livello 0** | Allarme             | **Non            | Locale all’Ente | -                |
+   | **Livello 0** | Allarme             | **Non            | Locale all’Ente | \-               |
    |               |                     | rilevante**      | coinvolto       |                  |
    +---------------+---------------------+------------------+-----------------+------------------+
    | **Livello 1** | Incidente           | **Informativo**  | Locale all’Ente | Informato        |
