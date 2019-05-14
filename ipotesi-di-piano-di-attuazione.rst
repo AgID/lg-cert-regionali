@@ -159,3 +159,6 @@ Fase 15: Promuovere l’operatività del CERT presso la community
 
 - Attuare il piano di comunicazione per l’avvio del CERT (promozione
   online, organizzazione di eventi, workshop, ecc.)
+
+.. discourse::
+   :topic_identifier: 9730

@@ -1277,3 +1277,6 @@ l’attore coinvolto ed il grado di coinvolgimento, secondo la convenzione:
    +------+---------------------------------+-------------+-------------+---------+
    | 8.5  | Chiusura ripristino             | R           | E           |         |
    +------+---------------------------------+-------------+-------------+---------+
+
+.. discourse::
+   :topic_identifier: 9725

@@ -181,3 +181,6 @@ I suddetti controlli possono essere raccolti nei seguenti ambiti di sicurezza:
   aggiornabili. Nel caso di un incidente informatico devono essere
   informati i responsabili di sicurezza che seguiranno il processo di
   gestione degli incidenti interno.
+
+.. discourse::
+   :topic_identifier: 9727

@@ -84,3 +84,6 @@ acquisire risorse e competenze esterne possono essere:
 - raccolta di indicazioni che emergono attraverso il confronto ed il
   benchmarking con altre esperienze e la scelta di riprodurre all'interno del
   CERT buone pratiche e casi di successo.
+
+.. discourse::
+   :topic_identifier: 9723

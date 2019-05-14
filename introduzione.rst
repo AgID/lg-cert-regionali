@@ -136,3 +136,6 @@ Il documento è organizzato nelle seguenti sezioni:
   13-14);
 
 - **Appendici:** *Glossario dei termini*.
+
+.. discourse::
+   :topic_identifier: 9717

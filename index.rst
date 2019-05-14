@@ -1,6 +1,13 @@
 Linee guida per lo sviluppo e la definizione del modello nazionale di riferimento per i CERT regionali
 ======================================================================================================
 
+.. admonition:: consultation
+   
+   La consultazione pubblica relativa al presente documento è attiva dal **14
+   maggio** al **13 giugno 2019**. Questo documento raccoglie il testo delle
+   Linee guida per lo sviluppo e la definizione del modello nazionale di
+   riferimento per i CERT regionali, disponibile per la consultazione pubblica.
+
 .. toctree::
   :numbered:
 

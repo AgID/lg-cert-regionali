@@ -336,3 +336,6 @@ proposte e le relative tempistiche.
 Con riferimento ai finanziamenti ottenibili, può essere stanziato dalla
 Commissione un contributo non superiore al 75% dei costi totali presentati per
 il progetto, che dovranno essere successivamente rendicontati su base periodica.
+
+.. discourse::
+   :topic_identifier: 9729

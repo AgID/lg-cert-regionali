@@ -1163,3 +1163,6 @@ memorizzazione delle informazioni (file, server) e l'operazione di componenti
 tecnologici (come nei data center e nelle server farm). Proprio per tale ragione
 è cruciale l’adozione di requisiti di sicurezza fisica ed ambientale idonei a
 consentire la protezione delle informazioni (si veda il Cap. 12).
+
+.. discourse::
+   :topic_identifier: 9726

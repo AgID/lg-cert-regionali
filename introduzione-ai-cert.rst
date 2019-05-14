@@ -471,3 +471,6 @@ linea generale è possibile considerare almeno due livelli di accreditamento:
   sviluppate al proprio interno, potrebbero essere in grado di fornire, ove
   ritenuto necessario, un contributo attivo all’erogazione dei servizi del CERT
   e/o al miglioramento dei servizi stessi.
+
+.. discourse::
+   :topic_identifier: 9721

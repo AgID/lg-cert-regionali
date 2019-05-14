@@ -105,3 +105,6 @@ il modello indipendente ed incorporato come assetti più indicati per un CERT
 territoriale, anche in presenza di constituency caratterizzate da distribuzioni
 geografiche particolarmente estese, che può operare in maniera efficace sotto la
 supervisione dell’ente che lo ha istituito.
+
+.. discourse::
+   :topic_identifier: 9722

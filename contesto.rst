@@ -1630,3 +1630,6 @@ CERT su come comportarsi professionalmente, potenzialmente anche al di fuori del
 lavoro. Un esempio è quello sviluppato da Trusted Introducer, promosso oggi da
 ENISA come buona prassi per favorire lo sviluppo dell’etica professionale nella
 comunità professionale e aumentare complessivamente la maturità dei team.
+
+.. discourse::
+   :topic_identifier: 9720

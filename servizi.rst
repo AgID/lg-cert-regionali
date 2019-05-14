@@ -631,3 +631,6 @@ I dettagli tecnici sono oggetto di un documento separato che verrà pubblicato
 nei prossimi mesi da AGID CERT-PA e che invitiamo a consultare come riferimento
 qualora si desideri implementare la trasmissione condivisa automatica di
 informazioni con il CERT-PA.
+
+.. discourse::
+   :topic_identifier: 9724

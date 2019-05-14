@@ -164,3 +164,6 @@ Indicatori sulle capacità generali
 - Capacità del CERT di effettuare le proprie operazioni senza necessità
   di supporto esterno (un eccessivo ricorso a capacità esterne potrebbe essere
   un indicatore di risorse inadeguate o insufficienti a supporto dei servizi)
+
+.. discourse::
+   :topic_identifier: 9728
