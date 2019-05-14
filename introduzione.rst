@@ -1,5 +1,5 @@
-Introduzione
-============
+Premessa
+========
 
 Le Tecnologie dell’Informazione e della Comunicazione (Information and
 Communication Technology, ICT) sono in rapida espansione e condizionano ormai
